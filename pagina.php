@@ -14,7 +14,8 @@
 
 	<header> 
 		<img src="imagem/estoque_icon.png" alt="logo">
-	<nav>
+	<nav class="navbar navbar-expand-lg bg-body-tertiary">
+		<div class="container-fluid">
 		<ul>
 			<li><a href="#">Home</li>
 		    <li><a href="#">Produtos</li>
